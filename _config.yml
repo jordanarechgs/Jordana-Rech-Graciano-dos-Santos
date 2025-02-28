@@ -248,10 +248,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _my life
   - scope:
       path: ""
-      type: portfolio
+      type: my life
     values:
       layout: single
       author_profile: true
