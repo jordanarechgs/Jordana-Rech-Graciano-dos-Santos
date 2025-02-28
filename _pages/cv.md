@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: "files/CV-JordanaRGS- Jan 2025 (1).pdf"
+permalink: ""
 author_profile: true
 redirect_from:
   - /resume
