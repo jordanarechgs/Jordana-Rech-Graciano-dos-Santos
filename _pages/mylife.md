@@ -2,7 +2,10 @@
 title: "My Life"
 permalink: /mylife/
 author_profile: true
-layout: page
+redirect_from:
+ - /mylife/
+ - /mylife.html
+
 ---
 
 Hey, welcome to the "My Life" section of my website. I'd like to share more information about my story and hobbies here.
