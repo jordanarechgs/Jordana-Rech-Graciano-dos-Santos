@@ -1,6 +1,7 @@
 ---
 title: "My Life"
 permalink: /mylife/
+author_profile: true
 layout: page
 ---
 
