@@ -4,7 +4,7 @@ permalink: /mylife/
 author_profile: true
 redirect_from:
  - /mylife/
- - /mylife.html
+
 
 ---
 
