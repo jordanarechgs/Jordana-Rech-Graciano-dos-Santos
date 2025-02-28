@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Jordana Rech Graciano dos Santos"
 description              : &description "personal description"
 url                      : https://jordanarechgs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jordanarechgs/jordanarechgs.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -207,13 +206,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  my life:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
+  
 
 # These settings control how pages and collections are included in the site
 defaults:
