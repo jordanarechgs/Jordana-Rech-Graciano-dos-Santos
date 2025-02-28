@@ -4,10 +4,13 @@ permalink: /mylife/
 layout: page
 ---
 
-# My Life
+Welcome to the "My Life" section of my website. I want to bring more information about my story and hobbies here.
 
-Welcome to the "My Life" section of my website. Here, I will share stories, experiences, and insights from my life.
-![Alt text for the image] ()
+The first thing that I am very proud of is that I am Brazilian! I am from the heart of Rio Grande do Sul. And if you do not know where it is, don't worry, here is the map! 
+
+(images/riograndedosul.png)
+
+
 ## Section 1
 Content for section 1.
 
