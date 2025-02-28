@@ -12,3 +12,4 @@ redirect_from:
 Education
 ======
 You can find my full CV here to download 
+CV: "files/CV-JordanaRGS- Jan 2025 (1).pdf"
