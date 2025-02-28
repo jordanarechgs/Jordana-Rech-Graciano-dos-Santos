@@ -13,16 +13,16 @@ navigation:
   - title: About
     url: /about/
     
-  - title: "Publications"
+  - title: Publications
     url: /publications/
 
-    - title: "Teaching"
+    - title: Teaching
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: Portfolio
     url: /portfolio/
 
-  - title: "My life"
+  - title: My life
     url: /talks/  
   
 
