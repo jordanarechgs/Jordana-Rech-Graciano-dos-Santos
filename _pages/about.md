@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Markdown generator**
-
-Hi! 👋 I am Jordana, nice to meet you! 
+*Hi!* 👋 I am Jordana, nice to meet you! 
 
 I am a Ph.D. candidate in Management from Luiss Guido Carli University in Rome. I focus on understanding how we can increase social Innovation partnerships through contexts. Moreover, how to manage social innovation projects and collaboration between different stakeholders. 
 
