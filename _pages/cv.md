@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "files/CV-JordanaRGS- Jan 2025 (1).pdf"
 author_profile: true
 redirect_from:
   - /resume
@@ -12,4 +12,3 @@ redirect_from:
 Education
 ======
 You can find my full CV here to download 
-CV: "files/CV-JordanaRGS- Jan 2025 (1).pdf"
