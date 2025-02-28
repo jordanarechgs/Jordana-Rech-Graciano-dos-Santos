@@ -251,12 +251,12 @@ defaults:
   # _my life
   - scope:
       path: ""
-      type: my life
+      type: my_life
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
  
 
 
