@@ -4,9 +4,9 @@ permalink: /mylife/
 layout: page
 ---
 
-Welcome to the "My Life" section of my website. I want to bring more information about my story and hobbies here.
+Hey, welcome to the "My Life" section of my website. I'd like to share more information about my story and hobbies here.
 
-The first thing that I am very proud of is that I am Brazilian! I am from the heart of Rio Grande do Sul. And if you do not know where it is, don't worry, here is the map! 
+The first thing I am very proud of is that I am Brazilian! I am from the heart of Rio Grande do Sul, a city called Santa Maria. And if you don't know where it is, don't worry—here is the map! 
 
 ![Map of Rio Grande do Sul](https://github.com/jordanarechgs/jordanarechgs.github.io/raw/master/images/riograndedosul.png)
 
