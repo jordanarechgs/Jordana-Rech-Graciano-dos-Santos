@@ -2,6 +2,8 @@
 title: "My Life"
 permalink: /mylife/
 layout: page
+ /mylife/
+  - /mylife.md
 ---
 
 Hey, welcome to the "My Life" section of my website. I'd like to share more information about my story and hobbies here.
