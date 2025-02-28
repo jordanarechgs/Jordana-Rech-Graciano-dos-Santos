@@ -12,18 +12,15 @@ navigation:
     
   - title: About
     url: /about/
-    
-  - title: Publications
-    url: /publications/
-
-    - title: Teaching
+  
+ - title: Teaching
     url: /teaching/    
     
   - title: Portfolio
     url: /portfolio/
 
   - title: My life
-    url: /talks/  
+    url: /mylife/  
   
 
     
